@@ -1,6 +1,6 @@
-### Hi there 👋
+### Introduction👋
 
-<!--
+I'm Carsiti, I come from Indonesia. I came to Belgium in April 2018. I like Belgium except the wearher.
 **KittyCars/KittyCars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
